@@ -1,0 +1,30 @@
+@import url("reset.css");
+@import url("Humans.css");
+.mainRighttext{
+	padding-top: 40px;
+	background-color: #fff;
+}
+.mainRighttext h1,
+.mainRighttext p{
+	padding-left: 30px;
+	margin-top: 20px;
+	color: #333;
+}
+.mainRighttext a{
+	color: #428bca;
+}
+.mainRighttext a:hover{
+	text-decoration: underline;
+}
+.mainRightmiddle{
+	margin-top: 20px;
+}
+.mainRighttext .mainRightmiddleimg{
+	float: right;
+	width: 450px;
+}
+.mainRighttext .mainRightmiddleimg>p{
+	font-size: 11px;
+	padding-right: 30px;
+	color: #333;
+}
